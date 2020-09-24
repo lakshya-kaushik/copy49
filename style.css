@@ -1,0 +1,11 @@
+.header{
+    background-color:rgb(227, 219, 219) ;
+    display: flex;
+
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
